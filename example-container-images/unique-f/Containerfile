@@ -1,0 +1,3 @@
+FROM shared-middleware:v0.1
+
+ADD file-f /usr/share

@@ -1,0 +1,3 @@
+FROM shared-base:v0.1
+
+ADD middleware-large-file /usr/share
